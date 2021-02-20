@@ -2,6 +2,8 @@
 
 A new Flutter application.
 
+<img src="assets/img/Screenshot_smpro.png" width=300>
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
